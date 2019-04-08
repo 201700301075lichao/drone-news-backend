@@ -4,12 +4,12 @@
 ## 2.1 启动项目
 在项目目录下执行    
 ```bash
-    docker-compose up --build -d
+docker-compose up --build -d
 ```
 ## 2.2 停止项目
 在项目目录下执行
 ```bash
-    docker-compose down --volumes
+docker-compose down --volumes
 ```
 ## 2.3 API接口
 ### 2.3.1 建立数据表并自动插入数据
